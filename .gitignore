@@ -6,3 +6,10 @@ data
 !data/audio/playlists/*
 *.exe
 *.dll
+.idea/CouncilBot.iml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/workspace.xml
+start_red.bat
+start_red_autorestart.bat
