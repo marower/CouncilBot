@@ -1,8 +1,8 @@
-2from __future__ import print_function
+from __future__ import print_function
 import os
 import sys
 import subprocess
-try:                                        # Older Pythons lack this
+try:           # Older Pythons lack this
     import urllib.request                   # We'll let them reach the Python
     from importlib.util import find_spec    # check anyway
 except ImportError:
